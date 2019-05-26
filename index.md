@@ -6,9 +6,9 @@
 
 * [xtUML Days 2018 - Copenhagen](docs/xday.html)  
 
-* Instructions to [construct the Sumo robot](sumo) using the EV3 kit  
+* Instructions to [Construct the Sumo robot](sumo) using the EV3 kit  
 
-* Instructions to [construct the Balancer robot](balancer) using the EV3 kit  
+* Instructions to [Construct the Balancer robot](balancer) using the EV3 kit  
 
 * [xtUML Modeling Class](xtuml-class)  
 
